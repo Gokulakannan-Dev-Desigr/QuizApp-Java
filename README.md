@@ -1,6 +1,6 @@
 # QuizApp-Java
 
-An application for exam managment.
+An application for exam management
 
 ---
 
@@ -9,7 +9,7 @@ An application for exam managment.
 
 
 
-## Scenerio
+## Scenario
 1. Run the application from netbeans
 2. Login as admin (username: admin	password: admin)
 3. Add a student (username: alex	password: alex)
@@ -67,5 +67,5 @@ An application for exam managment.
 - Marks are located in resources/databases/users.json
 
 ## Major Issues
-- Test score is not showing in UI and not updated in json if don't use jdk 8 and netbeans 8.2 
+- Test score is not showing in UI and not updated in json if you don't use jdk 8 and netbeans 8.2 
   (Apache Netbeans <= 16 seems ok but might generate issues)
